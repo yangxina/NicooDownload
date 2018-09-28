@@ -1,0 +1,6 @@
+framework module NicooDownload {
+  umbrella header "NicooDownload-umbrella.h"
+
+  export *
+  module * { export * }
+}
